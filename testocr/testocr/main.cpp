@@ -1,3 +1,7 @@
+/**
+ ** 2015.5.17 신설동 최종수정
+ **/
+
 //#include "stdafx.h"
 #include <string.h>
 #include <allheaders.h>
