@@ -1,7 +1,7 @@
 #include "myallheader.h"
 #include "myutil.h"
 
-#define INPUT_IMG "s6348.jpg"//"x6110.jpg"//"x5553.jpg"//"s7217.jpg"//"s6348.jpg"//"s4507.jpg"//"d2370.jpg"//"c8006.jpg"//"c7115.jpg"//"c6692s.jpg"//"c6692.jpg" //"c4422.jpg" //"c3250.jpg" //"c2943.jpg"
+#define INPUT_IMG "inputimg\\x6110.jpg"//"x6110.jpg"//"x5553.jpg"//"s7217.jpg"//"s6348.jpg"//"s4507.jpg"//"d2370.jpg"//"c8006.jpg"//"c7115.jpg"//"c6692s.jpg"//"c6692.jpg" //"c4422.jpg" //"c3250.jpg" //"c2943.jpg"
 #define OCR_IMG "ocrroi.jpg"
 
 int main()
